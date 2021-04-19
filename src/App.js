@@ -1,10 +1,10 @@
 import './App.css';
-import WeatherDisplay from './components/WeatherDisplay';
+import DisplayRecipe from './components/DisplayRecipe';
 
 function App() {
     return (
         <div className="App">
-            <WeatherDisplay />
+            <DisplayRecipe />
         </div>
     );
 }
